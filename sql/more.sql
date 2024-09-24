@@ -37,9 +37,3 @@ INSERT INTO Orders (OrderID, CustomerID, OrderDate, TotalAmount) VALUES ('106', 
 --Display tables
 SELECT * FROM Customers;
 SELECT * FROM Orders;
-
---part 2:1 Customer Orders with Conditional Logic
---part 2:2 Grouping and Aggregation by Country
---part 2:3 Combining Tables with Joins
---part 2:4 Subqueries
---part 2:5 Using a CTE for Average Order Amount
