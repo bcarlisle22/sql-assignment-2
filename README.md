@@ -1,4 +1,4 @@
-Creating and Managing Multiple Databases
+Creating Multiple Databases
 <hr>
 Graduate School Assignment
 
